@@ -1,7 +1,8 @@
 # pyghthouse
 Python API for CAU Lighthouse  
 
-Requires https://pypi.org/project/umsgpack/ and https://pypi.org/project/websocket_client/
+Requires https://pypi.org/project/umsgpack/ and https://pypi.org/project/websocket_client/  
+...or install dependencies by running `pip install -r requirements.txt`.  
 
 Initialize like this: `Pyghthouse(username, api_token)`.  
 Open a connection: `start()`.  
