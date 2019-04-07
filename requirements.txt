@@ -1,0 +1,2 @@
+umsgpack>=0.1.0, <= 0.2
+websocket_client>=0.56.0
